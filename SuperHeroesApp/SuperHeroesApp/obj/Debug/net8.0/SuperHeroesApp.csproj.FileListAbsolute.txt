@@ -1,0 +1,14 @@
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\yandy\source\repos\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll

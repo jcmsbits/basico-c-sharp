@@ -1,0 +1,14 @@
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\bin\Debug\net8.0\OperadorRelacional.exe
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\bin\Debug\net8.0\OperadorRelacional.deps.json
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\bin\Debug\net8.0\OperadorRelacional.runtimeconfig.json
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\bin\Debug\net8.0\OperadorRelacional.dll
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\bin\Debug\net8.0\OperadorRelacional.pdb
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.AssemblyInfoInputs.cache
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.AssemblyInfo.cs
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.csproj.CoreCompileInputs.cache
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.dll
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\refint\OperadorRelacional.dll
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.pdb
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\OperadorRelacional.genruntimeconfig.cache
+C:\Users\yandy\source\repos\OperadorRelacional\OperadorRelacional\obj\Debug\net8.0\ref\OperadorRelacional.dll

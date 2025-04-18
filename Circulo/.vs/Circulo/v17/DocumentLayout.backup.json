@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yandy\\source\\repos\\Circulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586C26AD-2CA8-47B9-8CA4-CB4AE587FA8F}|Circulo\\Circulo.csproj|c:\\users\\yandy\\source\\repos\\circulo\\circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C26AD-2CA8-47B9-8CA4-CB4AE587FA8F}|Circulo\\Circulo.csproj|solutionrelative:circulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yandy\\source\\repos\\Circulo\\Circulo\\Program.cs",
+              "RelativeDocumentMoniker": "Circulo\\Program.cs",
+              "ToolTip": "C:\\Users\\yandy\\source\\repos\\Circulo\\Circulo\\Program.cs",
+              "RelativeToolTip": "Circulo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:30:02.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
