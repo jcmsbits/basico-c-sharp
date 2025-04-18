@@ -1,2 +1,2 @@
-# basico-c-sharp
-Curso Básico de Sharp
+# Curso Básico-y Programacion Orientada a Ojbeto con c-sharp
+
